@@ -5,12 +5,15 @@ Dothraki
 Mandarin
 Cantonese
 french
-spanish
-english
-swahili
-Inuktitut
-Klingon
-Swinomish
-Berber
 
-yes
+someday, i would like to visit all these places. 
+
+also, i am using a funny set of colors in the terminal, and the background is kind of see through, which is distracting.
+
+here's a few more languages, just because.
+
+spanish
+fortran
+python
+C++
+
