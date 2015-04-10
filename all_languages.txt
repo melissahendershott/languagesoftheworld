@@ -1,9 +1,9 @@
 list of the world's languages
-finnish
-russian
+finnish Lutafisk! ufta! 
+russian DA motherland!
 Dothraki
-Mandarin
-Cantonese
+Mandarin 
+CantoneseD
 french
 
 someday, i would like to visit all these places. 
@@ -16,4 +16,14 @@ spanish
 fortran
 python
 C++
+=======
+french bgueette
+spanish
+esh
+swahili
+Inuktitut
+Klingon hope this change will make conflicts 
+Swinomish
+Berber
+>>>>>>> 1011e42d25ed1d0a558d91999b73728962e43afc
 
